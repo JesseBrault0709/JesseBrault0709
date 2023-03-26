@@ -1,12 +1,10 @@
 # Jesse Brault: Programmer, Musician
 
-<img src="images/java.svg" width="48" height="48" alt="Java" />
-
 I am a full-stack developer currently looking for work in Berlin, Germany. I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
 My programming interests lie in programming languages (including grammars, lexers, parsers, ASTs, etc.), web and app development (full-stack, including Spring, Node, React, and React Native), and programming tools and plugins (Gradle, IntelliJ plugins, etc.). I have limited experience with graphics/game programming, PHP, and some systems programming in C++.
 
-Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical nature of software, and that sweet feeling when Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
+Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical and linguistic nature of software, and that sweet feeling when Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
 
 ## Current Projects
 
@@ -14,6 +12,7 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 -   `gcp`, or `Groovy Component Pages`: Related to the above `ssg` project, a JSX-inspired Java library which will allow for creation of individual 'components', written in Groovy, to be used similar to React components inside a static site generator. Essentially, these Groovy-backed components allow for declarative structuring of web page templates with a syntax similar to JSX and access to the rest of the JVM during rendering.
 -   `gcp-intellij`: A plugin for IntelliJ which will do syntax highlighting and some minor refactoring for `gcp`.
 -   `jbci`: A continuous integration program written in TS which listens to GitHub webhooks and then executes pre-configured shell scripts based on the webhook payload, mainly used to update my websites from simple pushes to my various GitHub repositories.
+-   `fsm`, or `Finite State Machines`: a Java library with an easy-to-use DSL to incorporate various kinds of finite state machines into applications.
 
 ## Past Projects
 
