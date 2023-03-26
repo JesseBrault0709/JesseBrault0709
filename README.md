@@ -24,7 +24,7 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 ## Languages
 
 <div>
-  <img src="images/javaWithColor.svg" alt="Java" width="48" height="72">
+  <img src="images/javaWithColor.svg" alt="Java" width="48" height="92">
   <img src="images/groovy.svg" alt="Groovy" width="72" height="48">
   <img src="images/jsWithColor.svg" alt="JavaScript" width="48" height="48">
   <img src="images/tsWithColor.svg" alt="TypeScript" width="48" height="48">
