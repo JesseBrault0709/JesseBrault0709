@@ -23,13 +23,13 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 
 ## Languages
 
-<img src="images/java.svg" alt="Java" width="48" height="48">
-<img src="images/js.svg" alt="JavaScript" width="48" height="48">
-<img src="images/ts.svg" alt="TypeScript" width="48" height="48">
+<div>
+  <img src="images/java.svg" alt="Java" width="48" height="48">
+  <img src="images/js.svg" alt="JavaScript" width="48" height="48">
+  <img src="images/ts.svg" alt="TypeScript" width="48" height="48">
+</div>
 
--   Java
--   JavaScript
--   TypeScript
+I am most fluent with Java, JavaScript, and Typescript. On the JVM I am additionally familiar with Groovy, and have some very limited Kotlin experience. I am also capable with standard web technologies such as HTML5, CSS, and sass.
 
 ## My Programming Story
 
@@ -50,18 +50,3 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 -   Website
 -   LinkedIn
 -   E-mail
-
-<!--
-**JesseBrault0709/JesseBrault0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
