@@ -21,6 +21,16 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 -   `Pantry App`
 -   `jgtcv`
 
+## Languages
+
+<img src="images/java.svg" alt="Java" width="48" height="48">
+<img src="images/js.svg" alt="JavaScript" width="48" height="48">
+<img src="images/ts.svg" alt="TypeScript" width="48" height="48">
+
+-   Java
+-   JavaScript
+-   TypeScript
+
 ## My Programming Story
 
 -   Lua
