@@ -1,6 +1,6 @@
 # Jesse Brault: Programmer, Musician
 
-![Java](images/java.svg)
+<img src="images/java.svg" width="48" height="48" alt="Java" />
 
 I am a full-stack developer currently looking for work in Berlin, Germany. I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
