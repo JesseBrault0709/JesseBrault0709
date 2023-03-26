@@ -1,5 +1,7 @@
 # Jesse Brault: Programmer, Musician
 
+<i class="fa-brands fa-java"></i>
+
 I am a full-stack developer currently looking for work in Berlin, Germany. I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
 My programming interests lie in programming languages (including grammars, lexers, parsers, ASTs, etc.), web and app development (full-stack, including Spring, Node, React, and React Native), and programming tools and plugins (Gradle, IntelliJ plugins, etc.). I have limited experience with graphics/game programming, PHP, and some systems programming in C++.
@@ -54,3 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script src="https://kit.fontawesome.com/7382441939.js" crossorigin="anonymous"></script>
