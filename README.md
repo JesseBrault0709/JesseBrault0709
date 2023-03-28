@@ -65,7 +65,6 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 #### Libraries
 - Picocli
 - Groovy SDK
-- Vavr
 
 #### Testing
 - JUnit Jupiter, JUnit 4
@@ -79,11 +78,8 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 #### Front-End
 - React
 - React Native
-- React Router
 - Redux
-- Axios
 - Expo
-- jQuery
 
 #### Back-End
 - Express
@@ -111,8 +107,22 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 
 ## Other Skills
 
-- Server Administration: I run my own Ubuntu-based virtual private server at digitalocean.com, where I host a variety of services and web sites.
+- Server Administration: I run my own Ubuntu-based virtual private server at digitalocean.com, where I host a variety of services and web sites. Tasks I often do include:
+  - Package administration.
+  - Continuous integration.
+  - Securing the environment.
+  - Using `ssh` and `sftp`.
 - Web and App Design: I have some design experience for both web sites and apps. Particularly, I have an as-of-yet unfinished design at Figma for *The Pantry App*, which can be viewed [here](https://www.figma.com/file/VKrirPQi2FneCPaP3XdPzn/Pantry-App-Design?node-id=0%3A1&t=eSnEntKpbxK7LEJG-1). I have additionally done UX testing with Maze.
+- (Human) Languages:
+  - English: native speaker.
+  - German: proficient, continuing to learn; no official certificate (yet).
+  - Spanish: proficient, no longer studying.
+- Photography/Videography: experience with Adobe Photoshop, Lightroom, Premiere, and Creative Cloud.
+
+## Education
+
+- Bachelor of Music, *summa cum laude*, music theory and composition. St. Olaf College, 2013.
+- Master of Music, orchestral conducting. The Juilliard School, 2018.
 
 ## Contact
 
