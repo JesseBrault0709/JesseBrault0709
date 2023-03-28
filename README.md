@@ -4,18 +4,26 @@
 
 **Welcome! I am a full-stack developer currently looking for work in Berlin, Germany.** I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
-My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, React, and React Native), and programming tools and plugins (Gradle and IntelliJ plugins). I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
+My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, React, and React Native), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
 
-Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical and linguistic nature of software, and that sweet feeling when Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
+Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical and linguistic nature of software, and that sweet feeling When Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
 
 ## Current Projects
 
-- **ssg**, or **Static Site Generator**: A highly-extensible CLI application written entirely in Groovy for statically generating websites from text files and other input. I created this out of a need for a static site generator in which I could embed Groovy without all the hassle of a full-size server-oriented framework such as Grails. So far, I am using it for all my personal sites, and it has also been used outside of my own projects.
-- **gcp**, or **Groovy Component Pages**: Related to the above **ssg** project, a JSX-inspired Java library which will allow for creation of individual 'components', written in Groovy, to be used similar to React components inside a static site generator. Essentially, these Groovy-backed components allow for declarative structuring of web page templates with a syntax similar to JSX and access to the rest of the JVM during rendering.
-- **gcp-intellij**: A plugin for IntelliJ which will do syntax highlighting and some minor refactoring for **gcp**.
-- **jbci**, or **Jesse Brault Continuous Integration**: A CI program written in TS which listens to GitHub webhooks and then executes pre-configured shell scripts based on the webhook payload, mainly used to update my websites by simple pushes to my various GitHub repositories.
-- **fsm**, or **Finite State Machines**: a Java library with an easy-to-use DSL to incorporate various kinds of finite state machines into applications.
-- **jbarchiva**: A Gradle plugin to facilitate easy access to my personal Maven repository at [archiva.jessebrault.com](https://archiva.jessebrault.com/).
+### JVM: Java and Groovy
+- [**ssg**, or **Static Site Generator**](https://github.com/JesseBrault0709/ssg): A highly-extensible CLI application written entirely in Groovy for statically generating websites from text files and other input. I created this out of a need for a static site generator in which I could embed Groovy without all the hassle of a full-size server-oriented framework such as Grails. So far, I am using it for all my personal sites, and it has also been used outside of my own projects.
+- [**gcp**, or **Groovy Component Pages**](https://github.com/JesseBrault0709/gcp): Related to the above **ssg** project, a JSX-inspired Java library which will allow for creation of individual 'components', written in Groovy, to be used similar to React components inside a static site generator. Essentially, these Groovy-backed components allow for declarative structuring of web page templates with a syntax similar to JSX and access to the rest of the JVM during rendering.
+- **gcp-intellij**: A plugin for IntelliJ which will do syntax highlighting and some minor refactoring for **gcp**. <!-- TODO: upload and link the gcp-intellij repo -->
+- [**fsm**, or **Finite State Machines**](https://github.com/JesseBrault0709/fsm): a Java library with an easy-to-use DSL to incorporate various kinds of finite state machines into applications.
+- **jbarchiva**: A Gradle plugin to facilitate easy access to my personal Maven repository at [archiva.jessebrault.com](https://archiva.jessebrault.com/). <!-- TODO: upload and link the jbarchiva repo -->
+
+### JavaScript/TypeScript
+- [**jbci**, or **Jesse Brault Continuous Integration**](https://github.com/JesseBrault0709/jbci): A CI program written in TypeScript which listens to GitHub webhooks and then executes pre-configured shell scripts based on the webhook payload, mainly used to update my websites by simple pushes to my various GitHub repositories.
+- [**jb-api**](https://github.com/JesseBrault0709/jb-api): A very simple utility backend written in TypeScript for my personal websites. Currently its only function is to recieve and handle mail requests (such as from a contact form).
+  
+### Web Sites
+- [Red Dog Ensemble](https://github.com/JesseBrault0709/reddog): A web site for a contemporary classical music ensemble I am co-founding in New York City. <a href="https://reddogensemble.com/" target="_blank">Visit site.</a>
+- [Personal Website](https://github.com/JesseBrault0709/temp-website): A temporary version of my personal web site where I plan to store my classical-music related portfolios, biography, and other information. <a href="https://jessebrault.com/" target="_blank">Visit site.</a>
 
 ## Past Projects
 
@@ -23,6 +31,7 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 - **Meals Made Easy**
 - **Pantry App**
 - **jgtcv**
+- **Take Tracker**
 
 ## Languages
 
@@ -33,7 +42,7 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
   <img src="images/tsWithColor.svg" alt="TypeScript" width="48" height="48">
 </div>
 
-I am most fluent with Java, JavaScript, and Typescript. On the JVM I am additionally familiar with Groovy, and have some very limited Kotlin experience. I am also capable with standard web technologies such as HTML5, CSS, and sass. LaTeX, Tex, Lua.
+I am most fluent with Java, JavaScript, and Typescript. On the JVM I am additionally familiar with Groovy, and have some very limited Kotlin experience. I am also capable with standard web technologies such as HTML5, CSS, and sass; the type-setting technologies TeX and LaTex; and the scripting language Lua.
 
 ## My Programming Story
 
@@ -43,24 +52,70 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 - Java, Groovy
 - HTML, PHP, JS, TS
 
-## Frameworks and Libraries
+## Frameworks, Libraries, Tools, and Technologies
 
-### Java
+### JVM: Java and Groovy
 
-- Spring
+#### Web
+- Spring, Spring Boot
 
-### JS/TS
+#### Desktop
+- SWT
 
-- fp-ts
+#### Libraries
+- Picocli
+- Groovy SDK
+- Vavr
+
+#### Testing
+- JUnit Jupiter, JUnit 4
+
+#### Tools
+- Gradle
+- IntelliJ Idea
+
+### JavaScript/TypeScript
+
+#### Front-End
+- React
+- React Native
+- React Router
+- Redux
+- Axios
+- Expo
+- jQuery
+
+#### Back-End
+- Express
+- BCrypt
+- GraphQL
+- Passport
+- Prisma
+- fp-ts (my favorite TS library!)
+- io-ts
+
+#### Testing
+- Jest
+
+#### Tools
+- Npm
+- Gulp
+- VSCode
+
+### Databases
+- MySQL
+- SQLite
+
+### Documentation
+- Asciidoc, Asciidoctor
 
 ## Other Skills
 
 - Server Administration: I run my own Ubuntu-based virtual private server at digitalocean.com, where I host a variety of services and web sites.
-- Design: I have some app/website design experience, and more importantly, a heart-felt appreciation for what designers do.
-- UI design and testing: `Pantry App`, figma, testing, Maze, etc.
+- Web and App Design: I have some design experience for both web sites and apps. Particularly, I have an as-of-yet unfinished design at Figma for *The Pantry App*, which can be viewed [here](https://www.figma.com/file/VKrirPQi2FneCPaP3XdPzn/Pantry-App-Design?node-id=0%3A1&t=eSnEntKpbxK7LEJG-1). I have additionally done UX testing with Maze.
 
 ## Contact
 
-- Website
-- LinkedIn
-- E-mail
+- [LinkedIn](https://www.linkedin.com/in/jessebrault0709/)
+- [Email](mailto:jbrault@mac.com)
+- [Personal Website](https://jessebrault.com/)
