@@ -112,6 +112,7 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
   - Continuous integration.
   - Securing the environment.
   - Using `ssh` and `sftp`.
+  - Configuring `apache` for serving static content as well as reverse-proxying to various services.
 - Web and App Design: I have some design experience for both web sites and apps. Particularly, I have an as-of-yet unfinished design at Figma for *The Pantry App*, which can be viewed [here](https://www.figma.com/file/VKrirPQi2FneCPaP3XdPzn/Pantry-App-Design?node-id=0%3A1&t=eSnEntKpbxK7LEJG-1). I have additionally done UX testing with Maze.
 - (Human) Languages:
   - English: native speaker.
