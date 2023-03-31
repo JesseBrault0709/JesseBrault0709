@@ -1,6 +1,6 @@
 # Jesse Brault: Programmer, Musician
 
-<img src="images/JesseBraultHeaderNoText.jpg" alt="Jesse Brault Hero Image">
+![Jesse Brault Hero Photograph](images/JesseBraultHeaderNoTextMin.jpg)
 
 **Welcome! I am a full-stack developer currently looking for work in Berlin, Germany.** I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
