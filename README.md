@@ -27,11 +27,7 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 
 ## Past Projects
 
-- **FauxTeX**
-- **Meals Made Easy**
-- **Pantry App**
-- **jgtcv**
-- **Take Tracker**
+- [**Meals Made Easy**](https://github.com/JesseBrault0709/MealsMadeEasy): A fully-functioning meal-planning web-app developed during my time in _Co.Lab | You Belong in Tech_. I worked closely with a product manager and designer to make the project come alive! It is built with TypeScript, React, and SCSS.
 
 ## Languages
 
@@ -44,13 +40,13 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 
 I am most fluent with Java, JavaScript, and Typescript. On the JVM I am additionally familiar with Groovy, and have some very limited Kotlin experience. I am also capable with standard web technologies such as HTML5, CSS, and sass; the type-setting technologies TeX and LaTex; and the scripting language Lua.
 
-## My Programming Story
+<!-- ## My Programming Story
 
 - Lua
 - Unrealistic C/C++
 - Minecraft
 - Java, Groovy
-- HTML, PHP, JS, TS
+- HTML, PHP, JS, TS -->
 
 ## Frameworks, Libraries, Tools, and Technologies
 
