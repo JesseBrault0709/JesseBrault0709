@@ -2,7 +2,9 @@
 
 ![Jesse Brault Hero Photograph](images/JesseBraultHeaderNoTextMin.jpg)
 
-**Welcome! I am a full-stack developer currently looking for work in Berlin, Germany.** I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
+**Welcome! I am a full-stack developer currently looking for work in Berlin, Germany. If you would like my résumé, please message me.** (Alternatively, you can clone its [repository](https://github.com/JesseBrault0709/resume) and build it yourself).
+
+I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
 My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, and React), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
 
