@@ -1,4 +1,4 @@
-# Jesse Brault: Programmer, Musician
+# Jesse Brault: Full-Stack Software Engineer
 
 ![Jesse Brault Hero Photograph](images/JesseBraultHeaderNoTextMin.jpg)
 
