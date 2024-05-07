@@ -4,18 +4,16 @@
 
 **Welcome! I am a full-stack developer currently looking for work in Berlin, Germany.** I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
-My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, React, and React Native), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
+My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, and React), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
 
 Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical and linguistic nature of software, and that sweet feeling When Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
 
 ## Current Projects
 
 ### JVM: Java and Groovy
-- [**ssg**, or **Static Site Generator**](https://github.com/JesseBrault0709/ssg): A highly-extensible CLI application written entirely in Groovy for statically generating websites from text files and other input. I created this out of a need for a static site generator in which I could embed Groovy without all the hassle of a full-size server-oriented framework such as Grails. So far, I am using it for all my personal sites, and it has also been used outside of my own projects.
-- [**gcp**, or **Groovy Component Pages**](https://github.com/JesseBrault0709/gcp): Related to the above **ssg** project, a JSX-inspired Java library which will allow for creation of individual 'components', written in Groovy, to be used similar to React components inside a static site generator. Essentially, these Groovy-backed components allow for declarative structuring of web page templates with a syntax similar to JSX and access to the rest of the JVM during rendering.
-- **gcp-intellij**: A plugin for IntelliJ which will do syntax highlighting and some minor refactoring for **gcp**. <!-- TODO: upload and link the gcp-intellij repo -->
-- [**fsm**, or **Finite State Machines**](https://github.com/JesseBrault0709/fsm): a Java library with an easy-to-use DSL to incorporate various kinds of finite state machines into applications.
-- **jbarchiva**: A Gradle plugin to facilitate easy access to my personal Maven repository at [archiva.jessebrault.com](https://archiva.jessebrault.com/). <!-- TODO: upload and link the jbarchiva repo -->
+- [**groowt**, or **Groovy Web Tools**](https://github.com/JesseBrault0709/groowt): A set of libraries, CLI tools, and Gradle plugins written mostly in Java for facilitating web-development in Groovy, emphasizing the model-view-controller paradigm. Includes a custom templating language inspired by ReactJS, with a compiler developed with the ANTLR parser generator. 2024 *(in progress)*.
+- [**ssg**, or **Static Site Generator**](https://github.com/JesseBrault0709/ssg): A highly-extensible CLI application written entirely in Groovy for statically generating websites from text files and other input. I created this out of a need for a static site generator in which I could embed Groovy without all the hassle of a full-size server-oriented framework such as Grails. So far, I am using it for all my personal sites, and it has also been used outside of my own projects. 2023.
+- [**jbarchiva**](https://github.com/JesseBrault0709/jbarchiva): A Gradle plugin to facilitate easy access to my personal Maven repository at [archiva.jessebrault.com](https://archiva.jessebrault.com/). 2022-2024.
 
 ### JavaScript/TypeScript
 - [**jbci**, or **Jesse Brault Continuous Integration**](https://github.com/JesseBrault0709/jbci): A CI program written in TypeScript which listens to GitHub webhooks and then executes pre-configured shell scripts based on the webhook payload, mainly used to update my websites by simple pushes to my various GitHub repositories.
@@ -34,33 +32,19 @@ Overall, I aim to be highly versatile and adept at adopting new technologies. I 
 <div>
   <img src="images/javaWithColor.svg" alt="Java" width="48" height="92">
   <img src="images/groovy.svg" alt="Groovy" width="72" height="48">
+  <img src="images/kotlin.svg" alt="Kotlin" width="48" height="48">
   <img src="images/jsWithColor.svg" alt="JavaScript" width="48" height="48">
   <img src="images/tsWithColor.svg" alt="TypeScript" width="48" height="48">
 </div>
 
-I am most fluent with Java, JavaScript, and Typescript. On the JVM I am additionally familiar with Groovy, and have some very limited Kotlin experience. I am also capable with standard web technologies such as HTML5, CSS, and sass; the type-setting technologies TeX and LaTex; and the scripting language Lua.
-
-<!-- ## My Programming Story
-
-- Lua
-- Unrealistic C/C++
-- Minecraft
-- Java, Groovy
-- HTML, PHP, JS, TS -->
+I am most fluent with Java, Groovy, and Typescript. I am also fluent with standard web technologies such as HTML5, CSS, and sass; the type-setting technologies TeX and LaTex; and the scripting languages Ruby and Lua.
 
 ## Frameworks, Libraries, Tools, and Technologies
 
 ### JVM: Java and Groovy
 
-#### Web
+#### Frameworks
 - Spring, Spring Boot
-
-#### Desktop
-- SWT
-
-#### Libraries
-- Picocli
-- Groovy SDK
 
 #### Testing
 - JUnit Jupiter, JUnit 4
@@ -73,18 +57,13 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 
 #### Front-End
 - React
-- React Native
 - Redux
-- Expo
 
 #### Back-End
 - Express
-- BCrypt
 - GraphQL
-- Passport
 - Prisma
 - fp-ts (my favorite TS library!)
-- io-ts
 
 #### Testing
 - Jest
@@ -99,7 +78,7 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 - SQLite
 
 ### Documentation
-- Asciidoc, Asciidoctor
+- Asciidoc, Markdown
 
 ## Other Skills
 
@@ -112,13 +91,12 @@ I am most fluent with Java, JavaScript, and Typescript. On the JVM I am addition
 - Web and App Design: I have some design experience for both web sites and apps. Particularly, I have an as-of-yet unfinished design at Figma for *The Pantry App*, which can be viewed [here](https://www.figma.com/file/VKrirPQi2FneCPaP3XdPzn/Pantry-App-Design?node-id=0%3A1&t=eSnEntKpbxK7LEJG-1). I have additionally done UX testing with Maze.
 - (Human) Languages:
   - English: native speaker.
-  - German: proficient, continuing to learn; no official certificate (yet).
-  - Spanish: proficient, no longer studying.
+  - German: strong working knowledge.
 - Photography/Videography: experience with Adobe Photoshop, Lightroom, Premiere, and Creative Cloud.
 
 ## Education
 
-- Bachelor of Music, *summa cum laude*, music theory and composition. St. Olaf College, 2013.
+- Bachelor of Music, *summa cum laude*, music theory and composition. St. Olaf College, 2013. GPA 3.91.
 - Master of Music, orchestral conducting. The Juilliard School, 2018.
 
 ## Contact
