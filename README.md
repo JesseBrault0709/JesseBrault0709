@@ -6,7 +6,7 @@
 
 I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
-My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, and React), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, graphics/game programming, and some systems programming in C/C++.
+My programming interests lie in programming languages themselves (including grammars, lexers, parsers, ASTs, compilation, transpilation, etc.), web and app development (full-stack, including Spring, Node, and React), programming tools and plugins (Gradle and IntelliJ plugins), and functional programming. I have limited experience with PHP, and am also interested in graphics/game programming, and systems programming in C/C++.
 
 Overall, I aim to be highly versatile and adept at adopting new technologies. I seek every day to hone my craft and become a better developer. I enjoy the logical and linguistic nature of software, and that sweet feeling When Things Just Work™️. I also enjoy the collaborative process of bringing new ideas and designs to life.
 
