@@ -2,7 +2,7 @@
 
 ![Jesse Brault Hero Photograph](images/JesseBraultHeaderNoTextMin.jpg)
 
-**Welcome! I am a full-stack developer currently looking for work in Berlin, Germany. If you would like my résumé, please message me.** (Alternatively, you can clone its [repository](https://github.com/JesseBrault0709/resume) and build it yourself).
+**Welcome! I am a full-stack developer currently looking for work in Berlin, Germany. If you would like my résumé, please message me.** (You can view its repository [here](https://github.com/JesseBrault0709/resume)).
 
 I began my career as a classically-trained conductor and composer, and am transitioning to software development full-time. I love programming, learning new languages and frameworks, and developing interesting and exciting projects.
 
